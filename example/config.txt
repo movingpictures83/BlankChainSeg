@@ -1,0 +1,2 @@
+Prefix plugins/BlankChainSeg/example/
+Plugin BlankChainSeg inputfile 1.pdb outputfile output.blank.chain.seg.pdb
